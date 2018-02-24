@@ -1,0 +1,142 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	color: darkred;				
+	text-align: center;
+	font-size: 3.5em;
+	margin-top: 0px;
+	text-shadow: -2px -2px white, 1px 1px #333;
+}
+h2 {
+	color: #c66d00;
+	text-align: center;
+	font-size: 2.3em;
+	margin-top: 0px;
+	text-shadow: 0 -1px 1px #111, 0 1px 1px #fff;
+}
+#test {
+	margin-top: 15px;
+	font-size: 20px;
+	width: 200px;
+	display: inline-block;
+}
+#all {
+	margin-top: 100px;
+	margin-left: 39.3%;
+	width: 20%;
+	height: 25%;
+}
+#button2 {
+	position: absolute;
+	left: 47%;
+	padding: 10px 20px;
+	font-size: 20px;
+	margin-top: 20px;
+}
+#linkguest {
+	text-align: center;
+	font-size: 1.3em;
+}
+.kategories {
+	position: absolute;
+	top: 0;
+	height: 100%;
+	float: left;
+	width: 13%;
+	background-color: #e2d17c;
+	position: fixed;
+	font-size: 1.5em;
+	text-align: center;
+	min-width: 13%;
+}
+.data {
+	width: 66%;
+	background-color: #eee;
+	padding: 10px;
+	margin-left: 17%;
+	font-size: 1.3em;
+	min-width: 66%;
+}
+td, th {
+	border: solid 2px black;
+	padding: 3px;
+	text-align: center;
+	font-size: 1.5em;
+	min-width: 200px;
+}
+
+table {
+	border: solid 3px black;
+	border-collapse: collapse; 
+	margin: 0 auto;
+}
+.bearbeiten{
+	position: absolute;
+	top: 0;
+	height: 100%;
+	left: 87%;
+	width: 13%;
+	background-color: #e2d17c;
+	position: fixed;
+	font-size: 1.5em;
+	text-align: center;
+	min-width: 13%;
+}
+#all2 {
+	margin-top: 50px;
+	margin-left: 10%;
+	width: 80%;
+	height: 80%;
+	min-width: 80%;
+}
+#button {
+	padding: 10px 20px;
+	margin-top: 20px;
+	font-size: 20px;
+	position: absolute;
+	left:47%;
+	top: 86%;
+}
+.form-group{
+	height:30px;
+	line-height:30px;
+	display:inline-block;
+	margin-bottom: 7px;
+	margin-left: 8px;
+	vertical-align:middle;
+}
+.form-control{
+	display:inline-block;
+	vertical-align:middle;
+	display:block;
+	height:34px;
+	padding:1px 7px;
+	font-size:14px;
+	border:1px solid #ccc;
+	border-radius:4px;
+}
+#button_plus{
+	display:inline-block;
+	padding: 1px 7px;
+	font-size: 20px;
+	vertical-align:middle;
+	float: right;
+	background-color: #4CAF50;
+}
+#zutatenlist {
+	position: absolute;
+	width: 40%;
+	top: 20%;
+	left: 34%;
+	float: left;
+	min-width: 40%;
+}
+#anleitung{
+	position: absolute;
+	width: 20%;
+	top: 20%;
+	left: 62%;
+	float: left;	
+	min-width: 20%;
+}
